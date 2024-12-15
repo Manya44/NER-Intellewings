@@ -1,0 +1,8 @@
+flask
+requests
+lxml
+spacy
+vaderSentiment
+sqlalchemy
+gradio
+pyngrok
